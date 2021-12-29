@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\45811e128c69220ed0705cc2c870061b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\f10f7afea8e34fd86c7994df047a4266\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\bbe823d7d9b116f85a29faff35f1562d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\eea963e1df6656f11f96c7639b089911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\228145f54658c7972f2db12c00336e43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\feeb3fdbb5ddce8f7721bb44828937d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\4714cfe8ae43b31511f0da93250ef6ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\895a1a327db111558b1d11d220712eca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\f448ea0d50d0fa8eec2791dd48a48e23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\5154b079d19c1fceb653a6c6b2134911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\885a36bac99367c3f9dadebe0b56aa9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\0373505b87a95eb75b7ad926e69a0440\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\e502a0205f95d0105f44141a2dc63998\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\418a275c7e29f7857c2cfe7b1660e22a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\3f8d6958fffda3b389be30577af28f0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\68760992afca74e9066ab5706deb5078\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\c660cb9c839fcafff8d46cf41923716b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\3f877a7a236b4f1679349e46f0273aef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\b6ca36dc6b48b3cc238a29cb179d18fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\a2c7618e540b8c71b9fbc326f2ce692d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\0684b231251fef5291d6fbc32db2636a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\00cac5d1d81f3988f49374e8c70a2f74\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\6dd14fd04630283f47b2f3c027749a48\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\b39f4bc6dfc19ac373de0d35213047c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\2768186caf4a74c04f6630540eb5e4be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\ff4b79f8e47ddcd5a50d7e288bccf8c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\cd340a7f9e99d98947f93b3e9d7ad6dc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\f10f7afea8e34fd86c7994df047a4266\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\f10f7afea8e34fd86c7994df047a4266\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\68760992afca74e9066ab5706deb5078\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\68760992afca74e9066ab5706deb5078\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\c660cb9c839fcafff8d46cf41923716b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\c660cb9c839fcafff8d46cf41923716b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\68760992afca74e9066ab5706deb5078\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:11:9-40
+activity#app.simpleproject.pdd.MainActivity
+ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\45811e128c69220ed0705cc2c870061b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\45811e128c69220ed0705cc2c870061b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\f10f7afea8e34fd86c7994df047a4266\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\f10f7afea8e34fd86c7994df047a4266\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\bbe823d7d9b116f85a29faff35f1562d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\bbe823d7d9b116f85a29faff35f1562d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\eea963e1df6656f11f96c7639b089911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\eea963e1df6656f11f96c7639b089911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\228145f54658c7972f2db12c00336e43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\228145f54658c7972f2db12c00336e43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\feeb3fdbb5ddce8f7721bb44828937d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\feeb3fdbb5ddce8f7721bb44828937d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\4714cfe8ae43b31511f0da93250ef6ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\4714cfe8ae43b31511f0da93250ef6ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\895a1a327db111558b1d11d220712eca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\895a1a327db111558b1d11d220712eca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\f448ea0d50d0fa8eec2791dd48a48e23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\f448ea0d50d0fa8eec2791dd48a48e23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\5154b079d19c1fceb653a6c6b2134911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\5154b079d19c1fceb653a6c6b2134911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\885a36bac99367c3f9dadebe0b56aa9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\885a36bac99367c3f9dadebe0b56aa9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\0373505b87a95eb75b7ad926e69a0440\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\0373505b87a95eb75b7ad926e69a0440\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\e502a0205f95d0105f44141a2dc63998\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\e502a0205f95d0105f44141a2dc63998\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\418a275c7e29f7857c2cfe7b1660e22a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\418a275c7e29f7857c2cfe7b1660e22a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\3f8d6958fffda3b389be30577af28f0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\3f8d6958fffda3b389be30577af28f0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\68760992afca74e9066ab5706deb5078\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\68760992afca74e9066ab5706deb5078\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\c660cb9c839fcafff8d46cf41923716b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\c660cb9c839fcafff8d46cf41923716b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\3f877a7a236b4f1679349e46f0273aef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\3f877a7a236b4f1679349e46f0273aef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\b6ca36dc6b48b3cc238a29cb179d18fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\b6ca36dc6b48b3cc238a29cb179d18fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\a2c7618e540b8c71b9fbc326f2ce692d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\a2c7618e540b8c71b9fbc326f2ce692d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\0684b231251fef5291d6fbc32db2636a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\0684b231251fef5291d6fbc32db2636a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\00cac5d1d81f3988f49374e8c70a2f74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\00cac5d1d81f3988f49374e8c70a2f74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\6dd14fd04630283f47b2f3c027749a48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\6dd14fd04630283f47b2f3c027749a48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\b39f4bc6dfc19ac373de0d35213047c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\b39f4bc6dfc19ac373de0d35213047c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\2768186caf4a74c04f6630540eb5e4be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\2768186caf4a74c04f6630540eb5e4be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\ff4b79f8e47ddcd5a50d7e288bccf8c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\ff4b79f8e47ddcd5a50d7e288bccf8c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\cd340a7f9e99d98947f93b3e9d7ad6dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dns\.gradle\caches\transforms-2\files-2.1\cd340a7f9e99d98947f93b3e9d7ad6dc\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dns\Project\PDD\app\src\main\AndroidManifest.xml
